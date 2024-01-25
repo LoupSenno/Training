@@ -1,10 +1,24 @@
 h1 {
+    text-align: center;
     color: rgb(231, 145, 145);
     background-color: rgb(148, 80, 59);
 }
 body {
     background-color: antiquewhite;
 }
+#presentation {
+    background-color: bisque;
+    float: left;
+    width: 520px;
+}
+#recette {
+    background-color: bisque;
+    float: right;
+    width: 520px;
+}
 footer {
-    background-color: rgb(231, 145, 145);
+    color: rgb(231, 145, 145);
+    background-color: rgb(148, 80, 59);
+    clear:both;
+    text-align: center;
 }
